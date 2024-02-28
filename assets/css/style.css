@@ -1,0 +1,81 @@
+* {
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+}
+
+/* INICIO ESTILO NAVBAR */
+nav {
+    background-color: #28a745;
+}
+
+/* 
+FIN ESTILO NAVBAR */
+
+.card-tarjeta {
+    background: #28a745;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+#cards .card .card-title {
+    height: 60px;
+}
+
+#cards .card .body-principal {
+    height: 160px;
+    color: #707070;
+
+
+}
+
+#cards .card .body-principal h5{
+
+    color:#212529
+}
+
+.card-body p{
+    color: #707070;
+}
+    
+/* INICIO ESTILOS */
+
+.card-prod h5 {
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.card-pie h5 {
+    font-size: 20px;
+    font-weight: 500;
+    color: #212529;
+}
+
+/* FIN ESTILOS CARD */
+
+/* INICIO ESTILO CARD PIE DE PAGINA */
+
+#contacto {
+    background-color: #28a745;
+}
+
+form .form-control{
+    color: #707070;
+}
+/* FIN ESTILO CARD PIE DE PAGINA */
+
+/* INICIO ESTILO FOOTER */
+
+footer img{
+
+    width: 35%;
+    min-width: 35px;
+}
+
+footer p{
+
+    color: #707070;
+
+}
+
+/* FIN ESTILO FOOTER */
